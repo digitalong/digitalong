@@ -3,7 +3,7 @@
 - 👀 I’m interested in website development, service provider
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Team@digitalong.in
-- Digitalong.in
+- www.digitalong.in
 
 
 <!---
